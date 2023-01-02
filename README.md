@@ -2,11 +2,10 @@
 The backbone of UPES Guidance System is A* algorithm for finding the shortest path between 
 source and destination. The A star algorithm is admissible due to the heuristic function in the algorithm. A star algorithm is a single source shortest path finding algorithm that is an extension of Dijkstra's algorithm. Also, A star algorithm achieves better results due to its heuristic functionality.
 
+![videoupes](https://user-images.githubusercontent.com/87289150/210217783-a0e3b002-7d08-480a-85af-6cdb223bf3e1.gif)![map gui upes](https://user-images.githubusercontent.com/87289150/210217796-bda28b73-2432-43e6-a106-43bbe8121376.jpg)
+
 ![map gui upes](https://user-images.githubusercontent.com/87289150/210216974-dac7adb7-e922-43fb-81b0-297e621ec8b5.jpg)
 
-
-
-https://user-images.githubusercontent.com/87289150/210217460-4139e646-f405-4c3a-b6e7-630fdd881991.mp4
 
 
 ## This project is implemented on pygame to showcase the gui and how A* is implemented on UPES COLLEGE MAP so that one can reach from one destination to another in the shortest path inside college to save time

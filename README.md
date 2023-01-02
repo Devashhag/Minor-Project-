@@ -5,6 +5,10 @@ source and destination. The A star algorithm is admissible due to the heuristic 
 ![map gui upes](https://user-images.githubusercontent.com/87289150/210216974-dac7adb7-e922-43fb-81b0-297e621ec8b5.jpg)
 
 
+
+https://user-images.githubusercontent.com/87289150/210217460-4139e646-f405-4c3a-b6e7-630fdd881991.mp4
+
+
 ## This project is implemented on pygame to showcase the gui and how A* is implemented on UPES COLLEGE MAP so that one can reach from one destination to another in the shortest path inside college to save time
 
 
